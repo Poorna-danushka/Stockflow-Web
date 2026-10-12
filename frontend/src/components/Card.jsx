@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Card = ({content}) => {
+export const Card = ({content}) => {
   return (
     <div>Card {content}</div>
   )
